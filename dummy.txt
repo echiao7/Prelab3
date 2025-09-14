@@ -2,3 +2,4 @@ csp-3 stuff random filler
 CSP-4: bla bla bla
 CSP-5: Added boilerplate for review
 CSP-6: Virtual Shelf design
+CSP-7: History layout
